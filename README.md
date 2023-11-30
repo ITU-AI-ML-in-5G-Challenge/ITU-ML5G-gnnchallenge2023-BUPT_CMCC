@@ -1,3 +1,4 @@
+# Graph Neural Networking Challenge 2023 by Team BUPT_CMCC
 ## Project Structure
 - ckpt: folder containing our trained CBR+MB model and MB model.
   - cbr_mb_ipg_onRate_cv: this folder contains five trained CBR+MB models.
@@ -61,4 +62,6 @@ We use 'predict_separate.py' to predict the test dataset. Since we use two model
 ```
 python predict_separate.py --te-path "path/to/test/dataset"
 ```
+## Credits
+Zicheng Wang, Yuanjie Duan, Lingqi Guo, Danyang Chen
 
